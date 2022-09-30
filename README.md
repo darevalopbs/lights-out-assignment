@@ -2,7 +2,7 @@
 Please implement the following "Lights-Out" game.
 
 ## Instructions
-Implement the specified project in an environment of your choice. 
+Implement the specified project in WPF/XAML. 
 Create a new GitHub repository which will contain your completed assignment.
 **Please do not fork this repository!**
 
